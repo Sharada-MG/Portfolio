@@ -1,6 +1,21 @@
-title: Minimal theme
+title: <p align="center"> Sharada MG</p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sharada-mg-she-her-hers-41744675/">LinkedIn</a> |
+  <a href="https://github.com/Sharada-MG">GitHub</a>
+  
+  <br>   
+  Delivery Manager | Strategic Thinking With High Outstanding People Connect | Customer Centric | Initiative & Proposals | Agile Delivery | CSM | SAFe Leading Agilist | PRINCE2 |
+  Having around 16 years experience, executed projects cloud igration projects, Data Science, Machine learning & NLP related problems.
+  Workin with PwC and executing the project on Common Cloud Services.
+  Worked with TCS for 15 years in multiple domain projects and played different roles Project Manager, Delivery Manager and Test manager.
+  
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
